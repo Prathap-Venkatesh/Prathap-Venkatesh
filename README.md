@@ -3,7 +3,7 @@ Hi, I'm Prathap 👋<br><br>🎓 Electronics & Communication Engineering Student
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathap venkatesh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathapvenkatesh) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Prathap-Venkatesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Prathap-Venkatesh&theme=dark&hide_border=false)<br/>
