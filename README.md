@@ -1,9 +1,18 @@
-# Hi, I'm Prathap 👋
+# 💫 About Me:
+Hi, I'm Prathap 👋<br><br>🎓 Electronics & Communication Engineering Student<br>🔧 Interested in Embedded Systems & IoT<br>🚀 Learning by building practical hardware projects<br>
 
-🎓 Electronics & Communication Engineering Student
-🔧 Interested in Embedded Systems & IoT
-🚀 Learning by building practical hardware projects
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathap venkatesh) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Prathap-Venkatesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Prathap-Venkatesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathap-Venkatesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Prathap-Venkatesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🔧 Tech Stack
 
 **Programming**
